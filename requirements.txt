@@ -1,0 +1,6 @@
+crafter
+gymnasium
+anthropic
+openai
+pandas
+matplotlib
